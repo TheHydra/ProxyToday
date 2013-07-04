@@ -1,8 +1,9 @@
 '''
 
-Date	: Sunday, June 22, 2013
+@Date	: Sunday, June 22, 2013
 @author	: The-Hydra (aka Abdel-Rahman Mohamed Moez)
 @Version: 1.0
+
 This script is for grabbing proxies IPs:PORTS and listing them
 in well formatted way and exporting them into a text file.
 
